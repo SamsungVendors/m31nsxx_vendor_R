@@ -1,0 +1,7 @@
+
+```
+AP : M315FXXU2BUAC
+CSC : M315FODM2BUAC (INS)
+Android : R(Android 11)
+Build Date : 20210113193934
+```
